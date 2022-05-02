@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bevuti
 - 👀 I’m interested in DevOps and Cloud and IaC ( infraestructure as Code)
-- 🌱 I’m currently Multi Cloud and DevOps
+- 🌱 I’m currently looking for Multi Cloud and DevOps projects
 - 💞️ I’m looking to collaborate on Automation and provision services
 - 📫 How to reach me : bevuti@gmail.com
